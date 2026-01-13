@@ -14,9 +14,12 @@ I've included a **sample save file** so you can jump right in and test it out! A
 demo/demo.ser
 ```
 
-There’s also a **walkthrough video** on youtube! 
+There’s also a **walkthrough video** on youtube! https://www.youtube.com/watch?v=zymodGWREro
 
-<iframe width="1020" height="593" src="https://www.youtube.com/embed/zymodGWREro" title="CookStack Project Video Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the demo](https://img.youtube.com/vi/zymodGWREro/hqdefault.jpg)](https://www.youtube.com/watch?v=zymodGWREro)
+
+
+
 
 ---
 
