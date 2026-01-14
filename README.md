@@ -14,9 +14,9 @@ I've included a **sample save file** so you can jump right in and test it out! A
 demo/demo.ser
 ```
 
-There’s also a **walkthrough video** on youtube! https://www.youtube.com/watch?v=zymodGWREro
+There’s also a **walkthrough video** on youtube! https://www.youtube.com/watch?v=53fJrpb1jpQ
 
-[![Watch the demo](https://img.youtube.com/vi/zymodGWREro/hqdefault.jpg)](https://www.youtube.com/watch?v=zymodGWREro)
+[![Watch the demo](https://img.youtube.com/vi/53fJrpb1jpQ/hqdefault.jpg)](https://www.youtube.com/watch?v=53fJrpb1jpQ)
 
 
 
