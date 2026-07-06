@@ -17,15 +17,15 @@ CookStack is a JavaFX/Java app that helps you organize, save, and explore all yo
 
 ### Main Menu
 
-<img src="docs/images/menu.png" alt="CookStack main menu" width="700">
+<img src="docs/images/menu.png" alt="CookStack main menu" width="350">
 
 ### Recipe List
 
-<img src="docs/images/recipes.png" alt="CookStack recipe list" width="700">
+<img src="docs/images/recipes.png" alt="CookStack recipe list" width="350">
 
 ### Recipe Viewer
 
-<img src="docs/images/recipeviewer.png" alt="CookStack recipe viewer" width="700">
+<img src="docs/images/recipeviewer.png" alt="CookStack recipe viewer" width="350">
 
 ---
 
@@ -50,6 +50,8 @@ demo/demo.ser
 There’s also a **walkthrough video** on YouTube:
 
 [![Watch the demo](https://img.youtube.com/vi/53fJrpb1jpQ/hqdefault.jpg)](https://www.youtube.com/watch?v=53fJrpb1jpQ)
+
+[YouTube video link](https://www.youtube.com/watch?v=53fJrpb1jpQ)
 
 > ⚠️ Heads up! Serialized files are tied to the exact class/package setup. Changing package names might break old files.
 
